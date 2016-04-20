@@ -41,4 +41,5 @@ Free to draw it if it wasn't done.
 * M3 and M4 screw and nuts / T-nuts and washer (i will precise number and size later)
 * Nails Diam 3mm x 70mm (2 for pressure system and 2 for closing system)
 * Hard small spring
+* Blade Holder with blade  / Pen and other stuff you wan't use in plotter
 * Maybe something i don't have in mind
