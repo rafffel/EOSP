@@ -24,6 +24,7 @@ Free to draw it if it wasn't done.
 
 # BOM
 
+
 *PLA or ABS 
 *Flex filament (my roll are made in 90A durometer and it's seem ok)
 *MGN 12H Linear rail (length depend of the working size you want) you need 2 carriage one for X and one for Z 12C type can Work but fixation of X carriage need to be rework
